@@ -1,5 +1,3 @@
-import javax.print.event.PrintEvent;
-
 public class App {
     public static void main(String[] args) {
         Venda venda = new Venda();
